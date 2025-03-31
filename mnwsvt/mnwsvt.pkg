@@ -1,0 +1,4 @@
+D 'mnwsvt': Test for the level of clustering Use mnwsvt With STATA 18
+D
+F mnwsvt.ado
+F mnwsvt.hlp

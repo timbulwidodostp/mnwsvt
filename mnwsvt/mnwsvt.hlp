@@ -1,0 +1,24 @@
+{smcl}
+{* 20 Feb 2002/19 Jul 2006}{...}
+{hline}
+help for {hi:mnwsvt}
+{hline}
+
+{title:Test for the level of clustering}
+
+{title:Description}
+
+{p 4 4 2}{cmd:mnwsvt} Test for the level of clustering
+
+{title:Examples}
+
+{p 4 8 2}{inp:. import excel "https://raw.githubusercontent.com/timbulwidodostp/mnwsvt/main/mnwsvt/mnwsvt.xlsx", sheet("Sheet1") firstrow clear}
+{p 4 8 2}{inp:. mnwsvt treadss1 aide_1 small_1 treadssk male nonwhite teach_nonwhite totexp1 freelunch brys2 brys3 brys5 sbq2 sbq3 sbq4 hdg2 hdg3, null(newid) alt(clsid) h(3)}
+
+{smcl}
+{* 20 Feb 2002/19 Jul 2006}{...}
+{hline}
+- {hi:Author}
+{hline}
+
+Timbul Widodo www.youtube.com/@amalsedekah
