@@ -1,5 +1,7 @@
 # mnwsvt
-Test for the level of clustering Use mnwsvt With STATA 18
+Test for the level of clustering Use mnwsvt With STATA 19
+
+https://www.youtube.com/watch?v=ZnJbWT7u9CY
 
 Olah Data Semarang
 
